@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:58:42 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687122584
+https\://jcenter.bintray.com/.lastUpdated=1633687122657
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact net.minidev\:accessors-smart\:pom\:1.2 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/net/minidev/accessors-smart/1.2/accessors-smart-1.2.pom 401 Unauthorized

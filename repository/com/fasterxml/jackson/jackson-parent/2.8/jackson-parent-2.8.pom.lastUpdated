@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:11 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687151252
+https\://jcenter.bintray.com/.lastUpdated=1633687151479
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.8 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom 401 Unauthorized

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 10:10:21 UTC 2021
+jenkins-client-0.3.8.jar>nexus=
+jenkins-client-0.3.8.pom>jcenter=

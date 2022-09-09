@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:58:47 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687127020
+https\://jcenter.bintray.com/.lastUpdated=1633687127096
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.objenesis\:objenesis-parent\:pom\:3.1 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/objenesis/objenesis-parent/3.1/objenesis-parent-3.1.pom 401 Unauthorized

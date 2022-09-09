@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 10:10:21 UTC 2021
+spring-boot-starter-2.4.2.pom>jcenter=
+spring-boot-starter-2.4.2.jar>nexus=

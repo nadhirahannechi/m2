@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:58:52 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687132347
+https\://jcenter.bintray.com/.lastUpdated=1633687132752
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.webjars\:webjars-locator-core\:pom\:0.46 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/webjars/webjars-locator-core/0.46/webjars-locator-core-0.46.pom 401 Unauthorized

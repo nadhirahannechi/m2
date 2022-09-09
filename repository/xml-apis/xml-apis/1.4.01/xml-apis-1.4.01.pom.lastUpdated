@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:29 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687169217
+https\://jcenter.bintray.com/.lastUpdated=1633687169445
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact xml-apis\:xml-apis\:pom\:1.4.01 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/xml-apis/xml-apis/1.4.01/xml-apis-1.4.01.pom 401 Unauthorized

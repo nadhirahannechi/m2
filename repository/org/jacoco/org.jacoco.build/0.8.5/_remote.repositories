@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 10:10:07 UTC 2021
+org.jacoco.build-0.8.5.pom>central=
+org.jacoco.build-0.8.5.pom>nexus=

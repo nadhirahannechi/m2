@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:04 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687144763
+https\://jcenter.bintray.com/.lastUpdated=1633687144990
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact ognl\:ognl\:pom\:3.1.26 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/ognl/ognl/3.1.26/ognl-3.1.26.pom 401 Unauthorized

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 10:10:21 UTC 2021
+github-api-1.123.jar>nexus=
+github-api-1.123.pom>jcenter=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:58:38 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687118147
+https\://jcenter.bintray.com/.lastUpdated=1633687118529
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.apache.tomcat\:tomcat-annotations-api\:pom\:9.0.41 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/apache/tomcat/tomcat-annotations-api/9.0.41/tomcat-annotations-api-9.0.41.pom 401 Unauthorized

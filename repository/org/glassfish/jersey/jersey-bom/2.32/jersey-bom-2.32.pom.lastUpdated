@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:58:02 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687082690
+https\://jcenter.bintray.com/.lastUpdated=1633687082772
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.glassfish.jersey\:jersey-bom\:pom\:2.32 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/glassfish/jersey/jersey-bom/2.32/jersey-bom-2.32.pom 401 Unauthorized

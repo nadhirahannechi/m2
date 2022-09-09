@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 10:10:21 UTC 2021
+webjars-locator-0.30.jar>nexus=
+webjars-locator-0.30.pom>jcenter=

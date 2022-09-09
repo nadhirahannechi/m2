@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:02 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687142142
+https\://jcenter.bintray.com/.lastUpdated=1633687142365
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact com.sun.mail\:jakarta.mail\:pom\:1.6.5 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/com/sun/mail/jakarta.mail/1.6.5/jakarta.mail-1.6.5.pom 401 Unauthorized

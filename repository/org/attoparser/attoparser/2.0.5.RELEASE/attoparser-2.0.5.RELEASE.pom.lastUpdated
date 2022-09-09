@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:04 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687144048
+https\://jcenter.bintray.com/.lastUpdated=1633687144276
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.attoparser\:attoparser\:pom\:2.0.5.RELEASE from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/attoparser/attoparser/2.0.5.RELEASE/attoparser-2.0.5.RELEASE.pom 401 Unauthorized

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:39 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687179376
+https\://jcenter.bintray.com/.lastUpdated=1633687179602
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact com.google.errorprone\:error_prone_annotations\:pom\:2.5.1 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/com/google/errorprone/error_prone_annotations/2.5.1/error_prone_annotations-2.5.1.pom 401 Unauthorized

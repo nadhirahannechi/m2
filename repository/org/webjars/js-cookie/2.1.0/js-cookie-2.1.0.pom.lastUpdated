@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:58:50 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687129729
+https\://jcenter.bintray.com/.lastUpdated=1633687130474
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.webjars\:js-cookie\:pom\:2.1.0 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/webjars/js-cookie/2.1.0/js-cookie-2.1.0.pom 401 Unauthorized

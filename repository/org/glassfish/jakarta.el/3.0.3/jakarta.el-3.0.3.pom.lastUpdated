@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 09:59:06 UTC 2021
+@default-nexus-http\://artefact.focus.com.tn\:8081/repository/maven-public/.lastUpdated=1633687146659
+https\://jcenter.bintray.com/.lastUpdated=1633687146733
+http\://artefact.focus.com.tn\:8081/repository/maven-public/.error=Could not transfer artifact org.glassfish\:jakarta.el\:pom\:3.0.3 from/to nexus (http\://artefact.focus.com.tn\:8081/repository/maven-public/)\: Authentication failed for http\://artefact.focus.com.tn\:8081/repository/maven-public/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom 401 Unauthorized

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 08 10:10:21 UTC 2021
+cucumber-core-6.9.0.jar>nexus=
+cucumber-core-6.9.0.pom>jcenter=
